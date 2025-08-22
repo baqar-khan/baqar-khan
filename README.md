@@ -33,22 +33,34 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
 </p>
 
 ---
 
-
-
-
-### 🎨 3D Contribution Graph  
+### 📊 GitHub Stats  
 
 <p align="center">
-     🐍
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baqaruk1&show_icons=true&locale=en&layout=compact&theme=radical" alt="baqaruk1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baqaruk1&show_icons=true&locale=en&theme=radical" alt="baqaruk1" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baqaruk1&theme=radical" alt="baqaruk1" height="150"/>
 </p>
 
 ---
+
+### 🎨 Contribution Graph  
+
+<p align="center">
+  <img src="assets/snake-3d.gif" alt="Snake Contribution Graph" width="800"/>
+</p>
+
+---
+
+### 🌀 Fun Touch (Profile Card)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baqaruk1&theme=radical" width="100%"/>
+</p>
