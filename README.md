@@ -51,16 +51,15 @@
 
 ---
 
-### 🎨 Contribution Graph  
+
+### 🎨 3D Contribution Graph  
 
 <p align="center">
-  <img src="assets/snake-3d.gif" alt="Snake Contribution Graph" width="600"/>
+     🐍
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-### 🌀 Fun Touch (Profile Card)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baqaruk1&theme=radical" width="100%"/>
-</p>
