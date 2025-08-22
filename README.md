@@ -38,18 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baqaruk1&show_icons=true&locale=en&layout=compact&theme=radical" alt="baqaruk1" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=baqaruk1&show_icons=true&locale=en&theme=radical" alt="baqaruk1" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baqaruk1&theme=radical" alt="baqaruk1" height="150"/>
-</p>
-
----
 
 
 ### 🎨 3D Contribution Graph  
