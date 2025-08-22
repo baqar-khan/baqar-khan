@@ -33,7 +33,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nodejs,express,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 🎨 Contribution Graph  
 
 <p align="center">
-  <img src="assets/snake.png" alt="Snake Contribution Graph" width="600"/>
+  <img src="assets/snake-3d.gif" alt="Snake Contribution Graph" width="600"/>
 </p>
 
 ---
