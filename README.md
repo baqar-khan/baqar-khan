@@ -53,6 +53,12 @@
 
 ### 🎨 3D Contribution Graph  
 
+
+<p align="center">
+  <img src="assets/snake.png" alt="3D Snake Contribution Graph" width="600"/>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/baqaruk1/baqaruk1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
