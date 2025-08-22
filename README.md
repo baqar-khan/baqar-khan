@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,docker,postgres,redux,git,github,postman" />
 </p>
 
 ---
